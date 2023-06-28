@@ -15,9 +15,9 @@ Side note: theoretically you could also fit two 60mm fans, there is just enough 
 Definitely without any empirical system i can say the CPU temperature dropped around anywhere from 3 to 5 degree celsius. The other gain is the improved airflow to the RAM and VRMs.
 
 PC Specs:
-.CPU: Intel i7-13700K
-.MOBO: ROG STRIX Z790-I GAMING WIFI
-.COOLER: NOCTUA NH-L12S
-.RAM: CORSAIR VENGEANCE DDR5 2x16GB
+-CPU: Intel i7-13700K
+-MOBO: ROG STRIX Z790-I GAMING WIFI
+-COOLER: NOCTUA NH-L12S
+-RAM: CORSAIR VENGEANCE DDR5 2x16GB
 
 Print it, try it, if it helps i'm happy
